@@ -1,0 +1,19 @@
+.top-title {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  .left {
+    //   width: 50%;
+  }
+  .right {
+    //   width: 50%;
+    color: #9597b0;
+  }
+  .icons {
+    font-size: 15px;
+    position: relative;
+    bottom: -4px;
+  }
+}

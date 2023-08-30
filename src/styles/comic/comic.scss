@@ -1,0 +1,174 @@
+.Comiclist {
+  margin: 30px 0;
+  margin-left: 80px;
+  color: #fff;
+  .detail-listComic {
+    width: 943px;
+    .top-detail {
+      display: flex;
+      justify-content: space-between;
+      cursor: pointer;
+      color: #aeb0cc;
+      .leftTitle-top-detail {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+
+        .allComic {
+          color: #aeb0cc;
+          font-size: 20px;
+          margin-right: 25px;
+
+          &:hover {
+            color: #fff;
+            transform: scale(1.1);
+          }
+
+          &.active {
+            color: #ffac33;
+          }
+        }
+      }
+
+      .rightTitle-top-detail {
+        display: flex;
+        flex-direction: row;
+        .order-by {
+          margin-right: 20px;
+          background-color: #252836;
+          border-radius: 4px;
+          padding: 0 5px;
+          .MdFilterListAlt {
+            font-size: 20px;
+            position: relative;
+            top: 5px;
+            margin-bottom: -1px;
+            margin-left: 5px;
+          }
+        }
+        .order-by-icon {
+          font-size: 20px;
+          .MdOutlineFilterList {
+          }
+          .MdGridView {
+            border-left: 1px solid;
+            margin-left: 5px;
+            padding-left: 5px;
+          }
+        }
+      }
+    }
+    .bottom-detail {
+      .comic-list {
+        width: 350px;
+      }
+      .col-col {
+        margin-top: 20px;
+        margin-right: 155px;
+        margin-left: 0;
+        width: 350px;
+        .abc {
+          background-color: #252836;
+          width: 415px;
+          height: 280px;
+          border-radius: 3px;
+          padding: 0 15px;
+          margin-top: 25px;
+          .ima-detail {
+            display: flex;
+            height: 128px;
+            .ima {
+              :hover {
+                transform: translateY(-5px);
+                transition: transform 0.3s ease;
+              }
+              img {
+                width: 117px;
+                height: 162px;
+                border-radius: 5px;
+                position: relative;
+                top: -25px;
+              }
+            }
+            .I-detail {
+              width: 60%;
+              display: grid;
+              margin-left: 18px;
+              .detail-name {
+                h4 {
+                  margin: 15px 0;
+                }
+                a {
+                  color: #fff;
+                }
+              }
+              .child-name {
+                .genre {
+                  a {
+                    color: #ffac33;
+                    &:hover {
+                      color: #fff;
+                    }
+                  }
+                }
+              }
+            }
+          }
+          .text {
+            border-bottom: 3px solid #2c2f3e;
+            text-align: justify;
+            .decriptions {
+              height: 90px;
+              overflow: auto;
+            }
+            .decriptions::-webkit-scrollbar {
+              width: 0px;
+            }
+          }
+          .rating {
+            display: flex;
+            align-content: center;
+            margin-top: 6px;
+            .review {
+              display: flex;
+              margin-right: 25px;
+              p {
+                margin: -3px 12px;
+                font-size: 16px;
+              }
+              .faHeart {
+                color: red;
+                font-size: 20px;
+                margin-right: 10px;
+              }
+            }
+            .star {
+              border-left: 2px solid #2c2f3e;
+              padding: 0 30px;
+              text-align: center;
+              display: flex;
+              p {
+                margin: 0 12px;
+                font-size: 16px;
+              }
+              .FaStar {
+                font-size: 20px;
+                color: #ffac33;
+              }
+            }
+            .cata {
+              border-left: 2px solid #2c2f3e;
+              padding: 0 35px;
+            }
+          }
+        }
+      }
+    }
+    .pagination {
+      margin-top: 20px;
+      a {
+        color: #ffac33;
+      }
+    }
+  }
+}

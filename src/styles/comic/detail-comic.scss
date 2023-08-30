@@ -1,0 +1,341 @@
+.Comiclist {
+  .detailListComic {
+    background-color: #252836;
+    padding: 20px 30px;
+    border-radius: 8px;
+    .topDetail {
+      display: flex;
+      flex-direction: row;
+      .imgTop {
+        img {
+          border-radius: 5px;
+        }
+      }
+      .detailTop {
+        margin-left: 25px;
+        display: inline-grid;
+
+        .nameComic {
+          margin: 10px 0;
+        }
+        .rating-comic {
+          display: flex;
+          flex-direction: row;
+
+          .star-comic {
+            .icon-star {
+              color: #ffac33;
+              margin-right: 5px;
+              position: relative;
+              font-size: 45px;
+            }
+            .number-star {
+              position: relative;
+              right: 37px;
+              font-size: 15px;
+              bottom: 14px;
+              font-weight: 500;
+            }
+          }
+          .genre-comic {
+            display: flex;
+            h3 {
+              margin: 0;
+            }
+
+            .detail-genre {
+              margin-left: 14px;
+              width: 175px;
+            }
+          }
+        }
+        .status {
+          display: inline-flex;
+          align-items: center;
+          .detail-status {
+            margin-left: 15px;
+          }
+          h3 {
+            margin: 0;
+          }
+          h4 {
+            margin: 0;
+
+            margin-left: 15px;
+          }
+        }
+        .author-type {
+          display: inline-flex;
+          align-items: center;
+          .detail-status {
+            margin-left: 15px;
+          }
+          h3 {
+            margin: 0;
+          }
+          h4 {
+            margin: 0;
+            margin-left: 8.5px;
+          }
+        }
+        .type-author {
+          display: inline-flex;
+          align-items: center;
+          .detail-status {
+            margin-left: 15px;
+          }
+          h3 {
+            margin: 0;
+          }
+          h4 {
+            margin: 0;
+            margin-left: 25px;
+          }
+        }
+        .action {
+          margin-top: 20px;
+          display: flex;
+          .add,
+          .unfollow {
+            background-color: #22b07d;
+            font-size: 17px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            border: none;
+          }
+          .share {
+            margin-left: 10px;
+            background-color: #22b07d;
+            font-size: 17px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            border: none;
+          }
+          .unfollow:hover,
+          .share:hover {
+            transform: scale(1.1);
+          }
+        }
+      }
+    }
+    .bottomDetail {
+      display: flex;
+      margin-top: 30px;
+      .leftBottom {
+        .title-leftBottom {
+          display: flex;
+
+          .Sinopsis {
+            margin-right: 15px;
+            width: 120px;
+            height: 37px;
+            font-size: 20px;
+            background-color: #2f3142;
+            border-radius: 8px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 500;
+            color: #fff;
+            border: none;
+            padding: 0;
+            .AiFillProfile {
+              position: relative;
+              left: -3px;
+              font-size: 26px;
+              border-radius: 136px;
+            }
+          }
+          .Sinopsis:hover,
+          .Chapter:hover,
+          .Sinopsis.active,
+          .Chapter.active {
+            background-color: #ffac33;
+          }
+          .Chapter {
+            width: 120px;
+            height: 37px;
+            font-size: 20px;
+            background-color: #2f3142;
+            border-radius: 8px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0;
+            font-weight: 500;
+            color: #fff;
+            border: none;
+            .FiFolderMinus {
+              position: relative;
+              left: -3px;
+              font-size: 26px;
+            }
+          }
+        }
+        .detail-leftBottom {
+          border-radius: 8px;
+          background-color: #2f3142;
+          width: 425px;
+          height: 540px;
+          margin-top: 16px;
+          .comic-detail {
+            padding: 30px;
+            font-size: 16px;
+            text-align: justify;
+          }
+          .comic-chapter {
+            padding: 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+
+            .wrappper {
+              height: 445px;
+              overflow: auto;
+              width: 100%;
+              margin-bottom: 8px;
+              a {
+                color: #fff;
+                :hover {
+                  color: #22b07d;
+                }
+              }
+
+              .list-chapter {
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                margin-bottom: 16px;
+                .list-chapter-number {
+                  margin-left: 10px;
+                }
+                .list-chapter-date {
+                  margin-left: 30px;
+                }
+                .list-chapter-view {
+                  margin-left: 40px;
+                  .ImEye {
+                    position: relative;
+                    top: 1px;
+                    margin-right: 5px;
+                  }
+                }
+              }
+            }
+            .wrappper::-webkit-scrollbar {
+              width: 4px; /* Chiều rộng của thanh cuộn */
+            }
+
+            .wrappper::-webkit-scrollbar-track {
+              background-color: transparent; /* Màu nền của thanh cuộn */
+            }
+
+            .wrappper::-webkit-scrollbar-thumb {
+              background-color: #aeb0cc; /* Màu nền của ngón tay cuộn */
+              border-radius: 4px; /* Bo góc ngón tay cuộn */
+            }
+
+            .wrappper::-webkit-scrollbar-thumb:hover {
+              background-color: rgba(
+                0,
+                0,
+                0,
+                0.2
+              ); /* Màu nền của ngón tay cuộn khi hover */
+            }
+            .read-first-chapter {
+              display: flex;
+              color: #fff;
+              justify-content: space-around;
+              align-items: center;
+              width: 250px;
+              height: 45px;
+              background-color: #22b07d;
+              border: none;
+              .GiSheikahEye {
+                font-size: 30px;
+              }
+              p {
+                font-size: 20px;
+              }
+            }
+          }
+        }
+      }
+      .rightBottom {
+        margin-left: 25px;
+        .review-title {
+          width: 120px;
+          height: 37px;
+          font-size: 20px;
+          border-radius: 8px;
+          background-color: #4f4f6e;
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          .FaRegCommentDots {
+            position: relative;
+            left: -3px;
+            font-size: 26px;
+            bottom: -2px;
+          }
+        }
+        .review-detail {
+          margin-top: 16px;
+          width: 425px;
+          height: 540px;
+          border-radius: 8px;
+          background-color: #2f3142;
+          .comment {
+            padding: 30px;
+            display: flex;
+            flex-direction: row;
+            .cmd-img {
+              width: 50px;
+              height: 50px;
+              border-radius: 50%;
+              background-color: #1e90ff;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              font-size: 24px;
+              color: white;
+              margin-right: 10px;
+            }
+            .cmd-right {
+              .cmd-name {
+                h3 {
+                  margin: 0;
+                  padding-bottom: 5px;
+                }
+              }
+            }
+          }
+          .addd-comment {
+            display: flex;
+            width: 355px;
+            height: 40px;
+            position: absolute;
+            font-size: 25px;
+            bottom: 40px;
+            right: 60px;
+            .btn-cmd {
+              position: absolute;
+              color: #22b07d;
+              right: 10px;
+              top: 2px;
+              .MdAddBox {
+                font-size: 17px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,122 @@
+.side-bar {
+  margin: 30px 0;
+  width: calc(100% / 3);
+  .filter {
+    margin-right: 7px;
+    background-color: #252836;
+    border-radius: 8px;
+    padding: 20px;
+    color: #fff;
+    width: 400px;
+    h3 {
+      margin: 5px 0;
+    }
+    .Checkbox {
+      color: #aeb0cc;
+      margin: 5px 0;
+    }
+    .applyFilter {
+      display: flex;
+      flex-direction: column;
+      .check-box {
+        margin: 5px 0;
+        color: #9e9eb9;
+        .ant-checkbox-inner {
+          border: none;
+        }
+      }
+      .Search {
+        border-bottom: 1px solid #aeb0cc;
+        margin-bottom: 15px;
+        input {
+          background-color: #252836;
+          border: none;
+          outline: none;
+          width: 90%;
+          height: 25px;
+          font-size: 18px;
+          color: #9e9eb9;
+        }
+        ::placeholder {
+          color: #aeb0cc;
+        }
+      }
+      .popper {
+        background-color: #fff;
+        color: #252836;
+        // height: 320px;
+        width: 90%;
+        top: 65px;
+        position: absolute;
+        z-index: 1;
+        overflow: auto;
+        ul {
+          list-style-type: none;
+          padding-left: 10px;
+        }
+      }
+      .genres {
+        .scroll-container {
+          display: flex;
+          flex-direction: column;
+          height: 355px;
+          overflow: auto;
+          .ant-checkbox-wrapper {
+            color: #9e9eb9;
+          }
+        }
+        .scroll-container::-webkit-scrollbar {
+          width: 4px; /* Chiều rộng của thanh cuộn */
+        }
+
+        .scroll-container::-webkit-scrollbar-track {
+          background-color: transparent; /* Màu nền của thanh cuộn */
+        }
+
+        .scroll-container::-webkit-scrollbar-thumb {
+          background-color: #aeb0cc; /* Màu nền của ngón tay cuộn */
+          border-radius: 4px; /* Bo góc ngón tay cuộn */
+        }
+
+        .scroll-container::-webkit-scrollbar-thumb:hover {
+          background-color: rgba(
+            0,
+            0,
+            0,
+            0.2
+          ); /* Màu nền của ngón tay cuộn khi hover */
+        }
+      }
+      .type-status-format {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        .typeComic {
+          display: flex;
+          flex-direction: column;
+          width: calc(100% / 3);
+        }
+        .status {
+          display: flex;
+          flex-direction: column;
+          width: calc(100% / 3);
+        }
+        .format {
+          display: flex;
+          flex-direction: column;
+          width: calc(100% / 3);
+        }
+      }
+
+      .apply-filter {
+        Button {
+          width: 100%;
+          margin-top: 25px;
+          background-color: #22b07d;
+          border: none;
+          color: #fff;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+.container {
+  margin: 30px 45px;
+  color: #fff;
+  h2 {
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif, Times, serif;
+  }
+
+  .slick-dots li button {
+    width: 6px;
+    height: 6px;
+    border-radius: 100%;
+    position: relative;
+    bottom: -40px;
+  }
+  .slick-dots li.slick-active button {
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background: rgb(238, 204, 32);
+  }
+
+  .ant-card {
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  .ant-card-body {
+    width: 700px;
+    padding: 0;
+  }
+
+  .card-content {
+    .image {
+      position: relative;
+      display: inline-block;
+      img {
+        border-radius: 10px;
+        width: 690px;
+        height: 400px;
+      }
+    }
+    .detail {
+      position: absolute;
+      top: 0;
+      width: 690px;
+      height: 400px;
+      background-color: rgba(0, 0, 0, 0.3);
+      display: flex;
+      flex-direction: column;
+      justify-content: end;
+      border-radius: 10px;
+      color: #f5f5f5;
+      .carousel-title {
+        margin: 25px;
+        margin-bottom: -19px;
+      }
+      .carousel-info-row {
+        display: flex;
+        align-items: center;
+        margin: 25px;
+        font-weight: 500;
+        justify-content: space-between;
+        .carousel-info-row-left {
+          display: flex;
+          align-items: center;
+          .rating {
+            .star-icon {
+              color: #ffac33;
+              margin-right: 5px;
+              position: relative;
+              font-size: 44px;
+            }
+            .rating-value {
+              position: absolute;
+              transform: translate(-50%, -50%);
+              display: inline-block;
+              left: 46px;
+              bottom: 27.5px;
+            }
+          }
+          .genre {
+            margin-right: 5px;
+          }
+        }
+        .carousel-info-row-right {
+          .category {
+            margin-left: auto;
+            padding-left: 20px;
+          }
+          .author {
+          }
+        }
+      }
+    }
+  }
+}

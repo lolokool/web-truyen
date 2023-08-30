@@ -1,0 +1,107 @@
+.container {
+  .col-col {
+    margin: 0;
+    margin-right: 116px;
+
+    .coming {
+      width: 450px;
+      height: 510px;
+      background-color: #252836;
+      border-radius: 8px;
+      .coming-top {
+        display: flex;
+        height: 322px;
+        flex-direction: column;
+
+        .coming-top-img {
+          p {
+            position: absolute;
+            width: 450px;
+            top: 50px;
+            text-align: center;
+            font-size: 50px;
+          }
+          .anh {
+            width: 450px;
+            height: 265px;
+            filter: brightness(0.7);
+            border-radius: 8px;
+          }
+        }
+        .coming-top-detail {
+          display: flex;
+          justify-content: space-between;
+          padding: 18px;
+          border-bottom: 3px solid #383a4f;
+          .Release {
+            background-color: #383a4f;
+            border-radius: 5px;
+            padding: 5px 10px;
+          }
+          .Catagory {
+          }
+        }
+      }
+      .coming-bottom {
+        padding: 18px;
+        .detail-coming-bottom {
+          .name-detail {
+            font-size: 20px;
+            margin: 0px;
+          }
+          .genre-detail {
+            margin: 10px 0;
+          }
+          .author-detail {
+            margin: 10px 0;
+          }
+        }
+        .rimender {
+          .set-rimender {
+            width: 100%;
+            height: 100%;
+            margin: 10px 0;
+            display: inline-flex;
+            align-items: center;
+            background-color: #383a4f;
+            justify-content: center;
+            color: #fff;
+            border: none;
+            border-radius: 7px;
+            .MdOutlineNotificationsActive {
+              font-size: 25px;
+              left: 20px;
+              position: absolute;
+            }
+            span {
+              font-size: 20px;
+            }
+          }
+          .set-yellow {
+            background-color: #ffac33;
+            width: 100%;
+            height: 100%;
+            margin: 10px 0;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            border: none;
+            border-radius: 7px;
+            .MdOutlineNotificationsActive {
+              font-size: 25px;
+              left: 20px;
+              position: absolute;
+            }
+            span {
+              font-size: 20px;
+            }
+          }
+          :hover {
+            transform: scale(0.9);
+          }
+        }
+      }
+    }
+  }
+}

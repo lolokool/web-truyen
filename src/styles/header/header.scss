@@ -1,0 +1,112 @@
+.header {
+  background-color: #252836;
+  height: 90px;
+  color: #fff;
+  text-align: center;
+  align-items: center;
+  cursor: pointer;
+  align-content: center;
+
+  p {
+    font-family: revert;
+    font-size: 26px;
+    font-weight: 500;
+  }
+  .logo {
+    a {
+      color: #fff;
+    }
+    .custom-logo {
+      display: flex;
+      flex-direction: column;
+      .space-color {
+        display: inline-flex;
+        width: 100%;
+        position: relative;
+        height: 3px;
+        align-content: center;
+        bottom: 25px;
+        justify-content: center;
+        .red {
+          width: 75px;
+          background-color: #fe4e4f;
+        }
+        .yellow {
+          width: 25px;
+          background-color: #ffac33;
+        }
+        .blue {
+          width: 50px;
+          background-color: #13c8dd;
+        }
+      }
+    }
+  }
+  .option {
+    display: flex;
+    height: 90px;
+    .home,
+    .listComic {
+      a {
+        font-family: revert;
+        font-size: 26px;
+        font-weight: 500;
+        height: 90px;
+        color: #fff;
+        text-align: center;
+        align-items: center;
+        cursor: pointer;
+        align-content: center;
+        display: grid;
+      }
+      .active {
+        color: #d99a33;
+        background-color: #1f1d2b;
+      }
+    }
+    .home:hover,
+    .listComic:hover {
+      background-color: #1f1d2b;
+      text-decoration: underline;
+      color: #d99a33;
+    }
+
+    .login {
+      justify-content: center;
+      display: block;
+
+      .div-login {
+        position: absolute;
+        top: 32px;
+        right: 50px;
+        a {
+          color: #fff;
+        }
+        .login-left {
+          display: flex;
+          p {
+            margin: 0 10px;
+            font-size: 15px;
+          }
+
+          .signin {
+            display: flex;
+            .BiIcons {
+              font-size: 21px;
+              position: relative;
+              left: 11px;
+            }
+          }
+          .join {
+            border-left: 1px solid;
+          }
+          .signin:hover,
+          .join:hover {
+            transform: scale(1.2);
+            color: #d99a33;
+          }
+        }
+      }
+    }
+  }
+}

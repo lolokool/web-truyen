@@ -1,0 +1,793 @@
+{
+  "MangaList": [
+    {
+      "id": "Solo-Leveling",
+      "title": "Solo Leveling",
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "featured": true,
+      "author": "Chugong",
+      "country": "South Korea",
+      "status": "Ongoing",
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling.webp?alt=media&token=38f34338-dfab-489b-8fe9-0d239df46d32",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4.5,
+      "type": "Manhwa",
+      "view": 1302,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 324,
+      "detailChapter": [
+        {
+          "chapterId": "Chapter-1",
+          "chapter": "Chapter 1",
+          "date": "2023-08-01",
+          "view": 1000,
+          "images": [
+            {
+              "id": 1,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/001.jpg?alt=media&token=f4a94050-2674-4fd1-9811-ecea2d024dd0",
+              "caption": "Ảnh 1 chapter 1"
+            },
+            {
+              "id": 2,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/005.jpg?alt=media&token=6a117321-f421-4c46-aa6d-eaa024e4952b",
+              "caption": "Ảnh 2 chapter 1"
+            },
+            {
+              "id": 3,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/013.jpg?alt=media&token=2b112f62-7190-4143-920d-f1405f5041c6",
+              "caption": "Ảnh 3 chapter 1"
+            }
+          ]
+        },
+        {
+          "chapterId": "Chapter-2",
+          "chapter": "Chapter 2",
+          "date": "2023-08-05",
+          "view": 1200,
+          "images": [
+            {
+              "id": 1,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/tho-ren-huyen-thoai.jpg?alt=media&token=321f9237-ec75-4cde-85ca-e30bde962185",
+              "caption": "Ảnh 1 chapter 2"
+            },
+            {
+              "id": 2,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/thien-dao-do-thu-quan.jpg?alt=media&token=1b44342d-dee1-423d-ae85-bf1fcc0d6add",
+              "caption": "Ảnh 2 chapter 2"
+            },
+            {
+              "id": 3,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/vua-thang-cap.jpg?alt=media&token=602fb52a-8661-4219-9b0b-144767a06a0c",
+              "caption": "Ảnh 3 chapter 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "The-King's-Avatar",
+      "title": "The King's Avatar",
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "author": "Butterfly Blue",
+      "country": "China",
+      "status": "Ongoing",
+      "featured": true,
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/king's%20avartar.jpg?alt=media&token=30d0a5d2-6713-4def-a7d0-a64db424d85c",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 3.3,
+      "type": "Manhua",
+      "view": 33333,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 188,
+      "detailChapter": [
+        {
+          "chapterId": "Chapter-1",
+          "chapter": "Chapter 1",
+          "date": "2023-08-01",
+          "view": 1000,
+          "images": [
+            {
+              "id": 1,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/001.jpg?alt=media&token=f4a94050-2674-4fd1-9811-ecea2d024dd0",
+              "caption": "Ảnh 1 chapter 1"
+            },
+            {
+              "id": 2,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/005.jpg?alt=media&token=6a117321-f421-4c46-aa6d-eaa024e4952b",
+              "caption": "Ảnh 2 chapter 1"
+            },
+            {
+              "id": 3,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/013.jpg?alt=media&token=2b112f62-7190-4143-920d-f1405f5041c6",
+              "caption": "Ảnh 3 chapter 1"
+            }
+          ]
+        },
+        {
+          "chapterId": "Chapter-2",
+          "chapter": "Chapter 2",
+          "date": "2023-08-01",
+          "view": 1000,
+          "images": [
+            {
+              "id": 1,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/the%20god%20of%20hight%20school.jpg?alt=media&token=50ad0ce1-4ff1-48c4-980e-803c4261d21d",
+              "caption": "Ảnh 1 chapter 2"
+            },
+            {
+              "id": 2,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/bach-luyen-thanh-than.jpg?alt=media&token=63d25c51-0a5c-484e-8b04-4951f6ed50a7",
+              "caption": "Ảnh 2 chapter 2"
+            },
+            {
+              "id": 3,
+              "url": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/cua-hang-sung-thu-sieu-than.jpg?alt=media&token=ec0fa5b2-0057-4f16-8752-74fe8a66ebd1",
+              "caption": "Ảnh 3 chapter 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Naruto",
+      "title": "Naruto",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "author": "Masashi Kishimoto",
+      "country": "Japan",
+      "status": "Completed",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4.2,
+      "type": "Manga",
+      "view": 1200,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 700
+    },
+    {
+      "id": "Attack-on-Titan",
+      "title": "Attack on Titan",
+      "genre": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "author": "Hajime Isayama",
+      "country": "Japan",
+      "status": "Completed",
+      "featured": true,
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/Attack-On-Titans-Chapter-133.jpg?alt=media&token=47997c4d-1964-405d-b03d-8cd31db968c6",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4.1,
+      "type": "Manga",
+      "view": 850,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 139
+    },
+    {
+      "id": "One-Piece",
+      "title": "One Piece",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "author": "Eiichiro Oda",
+      "featured": true,
+      "country": "Japan",
+      "status": "Ongoing",
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/serial-one-piece.jpg?alt=media&token=9c5fe27d-4cde-4803-8f76-c351d546e115",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 5,
+      "type": "Manga",
+      "view": 3200,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 1022
+    },
+    {
+      "id": "Bleach",
+      "title": "Bleach",
+      "genre": [
+        "Action",
+        "Supernatural"
+      ],
+      "author": "Tite Kubo",
+      "country": "Japan",
+      "status": "Completed",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 3.7,
+      "type": "Manga",
+      "view": 680,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 686
+    },
+    {
+      "id": "Dragon-Ball",
+      "title": "Dragon Ball",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Martial Arts"
+      ],
+      "author": "Akira Toriyama",
+      "country": "Japan",
+      "status": "Completed",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4,
+      "type": "Manga",
+      "view": 1400,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 519
+    },
+    {
+      "id": "Tower-of-God",
+      "title": "Tower of God",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "author": "SIU",
+      "country": "South Korea",
+      "status": "Ongoing",
+      "featured": true,
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/OIP.jpg?alt=media&token=8d4826e6-49ff-48b9-a72c-47ebbd0e3e39",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4.7,
+      "type": "Manhwa",
+      "view": 890,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 496
+    },
+    {
+      "id": "The-Breaker",
+      "title": "The Breaker",
+      "genre": [
+        "Action",
+        "Martial Arts"
+      ],
+      "author": "Jeon Geuk-jin, Park Jin-hwan",
+      "country": "South Korea",
+      "status": "Completed",
+      "whatsNew": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4.4,
+      "type": "Manhwa",
+      "view": 760,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 202
+    },
+    {
+      "id": "Vinland-Saga",
+      "title": "Vinland Saga",
+      "genre": [
+        "Action",
+        " Adventure",
+        "Historical"
+      ],
+      "author": "Makoto Yukimura",
+      "country": "Japan",
+      "whatsNew": true,
+      "status": "Ongoing",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4.7,
+      "type": "Manga",
+      "view": 450,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 184
+    },
+    {
+      "id": "Fullmetal-Alchemist",
+      "title": "Fullmetal Alchemist",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "author": "Hiromu Arakawa",
+      "country": "Japan",
+      "whatsNew": true,
+      "status": "Completed",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4,
+      "type": "Manga",
+      "view": 1100,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 116
+    },
+    {
+      "id": "My-Hero-Academia",
+      "title": "My Hero Academia",
+      "genre": [
+        "Action",
+        "Superhero"
+      ],
+      "author": "Kohei Horikoshi",
+      "country": "Japan",
+      "status": "Ongoing",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4,
+      "type": "Manga",
+      "view": 1500,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 367
+    },
+    {
+      "id": "Death-Note",
+      "title": "Death Note",
+      "genre": [
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "author": "Tsugumi Ohba, Takeshi Obata",
+      "country": "Japan",
+      "status": "Completed",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4,
+      "type": "Manga",
+      "view": 980,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 108
+    },
+    {
+      "id": "Feng-Shen-Ji",
+      "title": "Feng Shen Ji",
+      "genre": [
+        "Action",
+        "Fantasy"
+      ],
+      "author": "Zheng Jian He",
+      "country": "China",
+      "status": "Completed",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4,
+      "type": "Manhua",
+      "view": 340,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 182
+    },
+    {
+      "id": "Tokyo-Ghoul",
+      "title": "Tokyo Ghoul",
+      "genre": [
+        "Action",
+        "Horror",
+        "Supernatural"
+      ],
+      "author": "Sui Ishida",
+      "country": "Japan",
+      "status": "Completed",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4,
+      "type": "Manga",
+      "view": 780,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 144
+    },
+    {
+      "id": "Demon-Slayer",
+      "title": "Demon Slayer",
+      "genre": [
+        "Action",
+        "Supernatural"
+      ],
+      "author": "Koyoharu Gotouge",
+      "country": "Japan",
+      "status": "Completed",
+      "featured": true,
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/wallpapersden.com_demon-slayer-team_3840x2400.jpg?alt=media&token=e0e91a2e-d1ea-49a5-8da1-aad32e066d93",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4,
+      "type": "Manga",
+      "view": 1980,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 205
+    },
+    {
+      "id": "One-Punch-Man",
+      "title": "One Punch Man",
+      "genre": [
+        "Action",
+        "Superhero"
+      ],
+      "author": "ONE, Yusuke Murata",
+      "country": "Japan",
+      "status": "Ongoing",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4,
+      "type": "Manga",
+      "view": 2500,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 155
+    },
+    {
+      "id": "Black-Clover",
+      "title": "Black Clover",
+      "genre": [
+        "Action",
+        "Fantasy"
+      ],
+      "author": "Yūki Tabata",
+      "country": "Japan",
+      "status": "Ongoing",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4,
+      "type": "Manga",
+      "view": 780,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 320
+    },
+    {
+      "id": "Gintama",
+      "title": "Gintama",
+      "genre": [
+        "Action",
+        "Comedy",
+        "Historical"
+      ],
+      "author": "Hideaki Sorachi",
+      "country": "Japan",
+      "status": "Completed",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4,
+      "type": "Manga",
+      "view": 870,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 704
+    },
+    {
+      "id": "Kingdom",
+      "title": "Kingdom",
+      "genre": [
+        "Action",
+        "Historical",
+        "Military"
+      ],
+      "author": "Yasuhisa Hara",
+      "country": "Japan",
+      "status": "Ongoing",
+      "whatsNew": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350",
+      "rating": 4,
+      "type": "Manga",
+      "view": 590,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 68
+    },
+    {
+      "id": "The-God-of-High-School",
+      "title": "The God of High School",
+      "genre": [
+        "Action",
+        "Supernatural"
+      ],
+      "rating": 4.4,
+      "type": "Manhwa",
+      "status": "Ongoing",
+      "featured": true,
+      "chapters": 68,
+      "view": 590,
+      "author": "Park Yong-Je",
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "country": "South Korea",
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/OIP.jpg?alt=media&token=8d4826e6-49ff-48b9-a72c-47ebbd0e3e39",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350"
+    },
+    {
+      "id": "The-Ravages-of-Time",
+      "title": "The Ravages of Time",
+      "genre": [
+        "Action",
+        "Historical"
+      ],
+      "rating": 4,
+      "type": "Manhua",
+      "status": "Ongoing",
+      "view": 590,
+      "featured": true,
+      "chapters": 68,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "author": "Chen Mou",
+      "country": "China",
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/OIP.jpg?alt=media&token=8d4826e6-49ff-48b9-a72c-47ebbd0e3e39",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling-ss3.jpg?alt=media&token=b43d046e-4e40-4cba-9124-250a8c401350"
+    },
+    {
+      "id": "Battle-Through-the-Heavens",
+      "title": "Battle Through the Heavens",
+      "genre": [
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 4.1,
+      "type": "Manhua",
+      "featured": true,
+      "status": "Ongoing",
+      "view": 590,
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "chapters": 68,
+      "author": "Tian Can Tu Dou",
+      "country": "China",
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/OIP.jpg?alt=media&token=8d4826e6-49ff-48b9-a72c-47ebbd0e3e39"
+    },
+    {
+      "id": "Ngự-linh-thế-giới",
+      "title": "Ngự Linh Thế Giới",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy "
+      ],
+      "rating": 3.5,
+      "view": 790,
+      "status": "Ongoing",
+      "type": "Manhua",
+      "chapters": 745,
+      "whatsNew": true,
+      "author": "Tian Can Tu Dou",
+      "country": "China",
+      "decriptions": "Lorem ipsum dolksdjhf ljd wioeg sdg sdg gh dfg  dfg d ofgigjergd d  dfg oudfug dfg dfgu dfgu dfgudf g dfg fdgjdfgioueriogu idfgfd gdfg dfgf fgh rh fgh fgh fgh fgh fgh fgh fghrthretth dh d herh gsdfhsdfhdfsa sh sj s sh jst or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/ngu-linh-the-gioi.jpg?alt=media&token=d1957ff5-7692-4d06-9199-9fafb335c33d"
+    }
+  ],
+  "featured": [
+    {
+      "id": "Solo-Leveling"
+    },
+    {
+      "id": "One-Piece"
+    },
+    {
+      "id": "The-King's-Avatar"
+    },
+    {
+      "id": "Attack-on-Titan"
+    },
+    {
+      "id": "Demon-Slayer"
+    },
+    {
+      "id": "The-God-of-High-School"
+    },
+    {
+      "id": "Tower-of-God"
+    },
+    {
+      "id": "The-Ravages-of-Time"
+    },
+    {
+      "id": "Battle-Through-the-Heavens"
+    }
+  ],
+  "whatsNew": [
+    {
+      "id": "Ngự-linh-thế-giới"
+    },
+    {
+      "id": "The-Breaker"
+    },
+    {
+      "id": "Vinland-Saga"
+    },
+    {
+      "id": "Fullmetal-Alchemist"
+    },
+    {
+      "id": "Kingdom"
+    }
+  ],
+  "comingsoon": [
+    {
+      "id": 1,
+      "title": "Solo Leveling",
+      "genre": "Action, Adventure, Fantasy",
+      "releaseDate": "20 September 2023",
+      "author": "Chugong",
+      "country": "South Korea",
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling.webp?alt=media&token=38f34338-dfab-489b-8fe9-0d239df46d32",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/ngu-linh-the-gioi.jpg?alt=media&token=d1957ff5-7692-4d06-9199-9fafb335c33d"
+    },
+    {
+      "id": 2,
+      "title": "Solo Leveling",
+      "genre": "Action, Adventure, Fantasy",
+      "releaseDate": "20 September 2023",
+      "author": "Chugong",
+      "country": "South Korea",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/ngu-linh-the-gioi.jpg?alt=media&token=d1957ff5-7692-4d06-9199-9fafb335c33d",
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling.webp?alt=media&token=38f34338-dfab-489b-8fe9-0d239df46d32"
+    },
+    {
+      "id": 3,
+      "title": "Solo Leveling",
+      "genre": "Action, Adventure, Fantasy",
+      "releaseDate": "20 September 2023",
+      "author": "Chugong",
+      "country": "South Korea",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/ngu-linh-the-gioi.jpg?alt=media&token=d1957ff5-7692-4d06-9199-9fafb335c33d",
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling.webp?alt=media&token=38f34338-dfab-489b-8fe9-0d239df46d32"
+    },
+    {
+      "id": 4,
+      "title": "Solo Leveling",
+      "genre": "Action, Adventure, Fantasy",
+      "releaseDate": "20 September 2023",
+      "author": "Chugong",
+      "country": "South Korea",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/ngu-linh-the-gioi.jpg?alt=media&token=d1957ff5-7692-4d06-9199-9fafb335c33d",
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling.webp?alt=media&token=38f34338-dfab-489b-8fe9-0d239df46d32"
+    },
+    {
+      "id": 5,
+      "title": "Solo Leveling",
+      "genre": "Action, Adventure, Fantasy",
+      "releaseDate": "20 September 2023",
+      "author": "Chugong",
+      "country": "South Korea",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/ngu-linh-the-gioi.jpg?alt=media&token=d1957ff5-7692-4d06-9199-9fafb335c33d",
+      "imageBig": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/solo-leveling.webp?alt=media&token=38f34338-dfab-489b-8fe9-0d239df46d32"
+    }
+  ],
+  "topAuthor": [
+    {
+      "id": 1,
+      "img": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/dai-quan-gia-la-ma-hoang-904.jpg?alt=media&token=907e5a99-d5c8-4123-9263-329ceda15c0d",
+      "nameAuthor": "Eiichi Oda",
+      "types": "Manga",
+      "numberOfBooks": "5 Comics - 6 Volume - 8 Books",
+      "genre": "Action, Fantasy, Slice of life, Sounen, Super power",
+      "country": "Japan"
+    },
+    {
+      "id": 2,
+      "img": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/dai-quan-gia-la-ma-hoang-904.jpg?alt=media&token=907e5a99-d5c8-4123-9263-329ceda15c0d",
+      "nameAuthor": "Yongje Park",
+      "types": "Manhwa",
+      "numberOfBooks": "10 Volumes",
+      "genre": "Action, Adventure, Fantasy",
+      "country": "South Korea"
+    },
+    {
+      "id": 3,
+      "img": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/dai-quan-gia-la-ma-hoang-904.jpg?alt=media&token=907e5a99-d5c8-4123-9263-329ceda15c0d",
+      "nameAuthor": "Tong Liya",
+      "types": "Manhua",
+      "numberOfBooks": "6 Volumes",
+      "genre": "Action, Adventure, Historical, Martial Arts",
+      "country": "China"
+    },
+    {
+      "id": 4,
+      "img": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/dai-quan-gia-la-ma-hoang-904.jpg?alt=media&token=907e5a99-d5c8-4123-9263-329ceda15c0d",
+      "nameAuthor": "Naoko Takeuchi",
+      "types": "Manga",
+      "numberOfBooks": "18 Volumes",
+      "genre": "Magical girl, Romance, Fantasy",
+      "country": "Japan"
+    },
+    {
+      "id": 5,
+      "img": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/dai-quan-gia-la-ma-hoang-904.jpg?alt=media&token=907e5a99-d5c8-4123-9263-329ceda15c0d",
+      "nameAuthor": "CLAMP",
+      "types": "Manga",
+      "numberOfBooks": "2 Volumes",
+      "genre": "Multiple genres",
+      "country": "Japan"
+    },
+    {
+      "id": 6,
+      "img": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/dai-quan-gia-la-ma-hoang-904.jpg?alt=media&token=907e5a99-d5c8-4123-9263-329ceda15c0d",
+      "nameAuthor": "Jeong Jun Ha",
+      "types": "Manhwa",
+      "numberOfBooks": "7 Volumes",
+      "genre": "Comedy, Drama, Slice of life",
+      "country": "South Korea"
+    },
+    {
+      "id": 7,
+      "img": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/dai-quan-gia-la-ma-hoang-904.jpg?alt=media&token=907e5a99-d5c8-4123-9263-329ceda15c0d",
+      "nameAuthor": "Yoon Mi-kyung",
+      "types": "Manhwa",
+      "numberOfBooks": "12 Volumes",
+      "genre": "Fantasy, Romance, Supernatural",
+      "country": "South Korea"
+    },
+    {
+      "id": 8,
+      "img": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/dai-quan-gia-la-ma-hoang-904.jpg?alt=media&token=907e5a99-d5c8-4123-9263-329ceda15c0d",
+      "nameAuthor": "Dong Man Tang",
+      "types": "Manhua",
+      "numberOfBooks": "10 Volumes",
+      "genre": "Action, Adventure, Fantasy, Romance",
+      "country": "China"
+    },
+    {
+      "id": 9,
+      "img": "https://firebasestorage.googleapis.com/v0/b/upload-image-comic-web.appspot.com/o/dai-quan-gia-la-ma-hoang-904.jpg?alt=media&token=907e5a99-d5c8-4123-9263-329ceda15c0d",
+      "nameAuthor": "Li Huan",
+      "types": "Manhua",
+      "numberOfBooks": "8 Volumes",
+      "genre": "Fantasy, Historical, Romance",
+      "country": "China"
+    }
+  ],
+  "users": [
+    {
+      "id": 18,
+      "password": "abcdef2",
+      "email": "user18@example.com",
+      "following": 3,
+      "readed": 28,
+      "isActive": true
+    },
+    {
+      "id": 19,
+      "password": "abcdef3",
+      "email": "user19@example.com",
+      "following": 13,
+      "readed": 4,
+      "isActive": true
+    },
+    {
+      "id": 20,
+      "password": "abcdef4",
+      "email": "user20@example.com",
+      "following": 19,
+      "readed": 26,
+      "isActive": false
+    },
+    {
+      "id": 21,
+      "email": "lolokool145@gmail.com",
+      "following": "12",
+      "readed": 0
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Ecchi",
+    "Fantasy",
+    "Isekai",
+    "Game",
+    "Harem",
+    "Horror",
+    "Martial Arts",
+    "Music",
+    "Manhwa",
+    "Manga",
+    "Magic",
+    "Mystery",
+    "Slice of Life",
+    "Sport",
+    "Soft Yuni",
+    "Supernatural",
+    "Romanic",
+    "Webtoon",
+    "Thriller",
+    "18+"
+  ],
+  "comment": [],
+  "uploadfile": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ]
+}

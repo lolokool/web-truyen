@@ -1,0 +1,60 @@
+.abs {
+  margin: 30px;
+  color: #fff;
+  height: 470px;
+  .block {
+    width: 390px;
+    height: 300px;
+    background-color: #252836;
+    position: absolute;
+    margin-left: -60px;
+  }
+  .author {
+    position: relative;
+    top: 65px;
+  }
+
+  .topAuthor {
+    position: relative;
+    top: 135px;
+    .topAuthor-detail {
+      width: 330px;
+      height: 260px;
+      background-color: #2f3142;
+      border-radius: 7px;
+      .auThor-block {
+        padding-left: 20px;
+        h3 {
+          margin-top: -20px;
+        }
+        .author-img {
+          img {
+            border-radius: 50%;
+            width: 80px;
+            height: 80px;
+            position: relative;
+            top: -36px;
+            right: -8px;
+          }
+        }
+        .types {
+          display: inline-flex;
+          // justify-content: space-between;
+          width: 100%;
+          margin-bottom: 10px;
+          .author-type {
+            margin-right: 25px;
+          }
+          .author-country {
+          }
+        }
+        .product {
+          margin-bottom: 10px;
+        }
+        .author-genre {
+          margin-bottom: 10px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+.container {
+  .top-title {
+    a {
+      text-decoration: none;
+      &:hover {
+        transform: scale(1.1);
+      }
+    }
+  }
+  .data {
+    .col-col {
+      margin-top: 20px;
+      width: 435px;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+
+      .abc {
+        background-color: #252836;
+        width: 415px;
+        height: 280px;
+        border-radius: 3px;
+        padding: 0 15px;
+        margin-top: 25px;
+        .ima-detail {
+          display: flex;
+          height: 128px;
+          .ima {
+            img {
+              width: 117px;
+              height: 162px;
+              border-radius: 5px;
+              position: relative;
+              top: -25px;
+            }
+          }
+          .I-detail {
+            width: 60%;
+            display: grid;
+            margin-left: 18px;
+            .detail-name {
+              h4 {
+                margin: 15px 0;
+              }
+              .child-name {
+                padding-bottom: 10px;
+                border-bottom: 3px solid #2c2f3e;
+                margin-top: 18px;
+                margin-bottom: -10px;
+              }
+              a {
+                color: #fff;
+              }
+            }
+          }
+        }
+        .text {
+          border-bottom: 3px solid #2c2f3e;
+          text-align: justify;
+          .decriptions {
+            height: 90px;
+            overflow: auto;
+          }
+          .decriptions::-webkit-scrollbar {
+            width: 0px;
+          }
+        }
+        .rating {
+          display: flex;
+          align-content: center;
+          margin-top: 6px;
+          .review {
+            display: flex;
+            margin-right: 25px;
+            p {
+              margin: -3px 12px;
+              font-size: 16px;
+            }
+            .faHeart {
+              color: red;
+              font-size: 20px;
+              margin-right: 10px;
+            }
+          }
+          .star {
+            border-left: 2px solid #2c2f3e;
+            padding: 0 30px;
+            text-align: center;
+            display: flex;
+            p {
+              margin: 0 12px;
+              font-size: 16px;
+            }
+            .FaStar {
+              font-size: 20px;
+              color: #ffac33;
+            }
+          }
+          .cata {
+            border-left: 2px solid #2c2f3e;
+            padding: 0 35px;
+          }
+        }
+      }
+    }
+  }
+}
